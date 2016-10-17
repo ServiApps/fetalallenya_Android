@@ -3,7 +3,7 @@ package com.serfcompany.ecommerce.acart;
 public class Constants {
 
     // ---------------- Change Application URL here -------------------------
-    public static final String APP_URI = "http://www.panelapp.es/";
+    public static final String APP_URI = "http://fetalallenya.appstakeaway.com/";
 
 
 
