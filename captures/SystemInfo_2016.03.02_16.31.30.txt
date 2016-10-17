@@ -1,0 +1,162 @@
+CURRENT STATS:
+System memory usage:
+  SOn /Norm: 8 samples:
+    Cached: 188MB min, 194MB avg, 199MB max
+    Free: 1.4GB min, 1.4GB avg, 1.4GB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 99MB min, 100MB avg, 101MB max
+    Native: 55MB min, 60MB avg, 65MB max
+       Mod : 2 samples:
+    Cached: 197MB min, 197MB avg, 198MB max
+    Free: 1.4GB min, 1.4GB avg, 1.4GB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 98MB min, 98MB avg, 98MB max
+    Native: 65MB min, 65MB avg, 65MB max
+
+Per-Package Stats:
+  * com.serfcompany.ecommerce.amazingcart / u0a60 / v1:
+      * com.serfcompany.ecommerce.amazingcart / u0a60 / v1:
+               TOTAL: 99% (20MB-26MB-58MB/16MB-22MB-54MB over 88)
+                 Top: 99% (20MB-26MB-58MB/16MB-22MB-54MB over 88)
+          (Last Act): 0.12%
+            (Cached): 0.29% (3.5MB-3.5MB-3.5MB/2.2MB-2.2MB-2.2MB over 1)
+
+Summary:
+  * com.serfcompany.ecommerce.amazingcart / u0a60 / v1:
+           TOTAL: 99% (20MB-26MB-58MB/16MB-22MB-54MB over 88)
+             Top: 99% (20MB-26MB-58MB/16MB-22MB-54MB over 88)
+      (Last Act): 0.12%
+        (Cached): 0.29% (3.5MB-3.5MB-3.5MB/2.2MB-2.2MB-2.2MB over 1)
+
+Run time Stats:
+  SOn /Norm: +2h45m13s767ms (running)
+       Mod : +1m16s394ms
+      TOTAL: +2h46m30s161ms
+
+Memory usage:
+  Kernel : 100MB (78 samples)
+  Native : 60MB (78 samples)
+  Persist: 109MB (81 samples)
+  Top    : 26MB (186 samples)
+  ImpFg  : 12MB (69 samples)
+  ImpBg  : 16MB (22 samples)
+  Service: 2.0KB (87 samples)
+  Receivr: 1.3KB (192 samples)
+  Home   : 17MB (38 samples)
+  LastAct: 32KB (89 samples)
+  CchEmty: 44MB (223 samples)
+  Cached : 194MB (78 samples)
+  Free   : 1.4GB (78 samples)
+  TOTAL  : 2.0GB
+
+          Start time: 2016-03-02 06:45:00
+  Total elapsed time: +2h46m30s167ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOn /Norm: 33 samples:
+    Cached: 156MB min, 181MB avg, 199MB max
+    Free: 1.4GB min, 1.5GB avg, 1.5GB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 94MB min, 100MB avg, 106MB max
+    Native: 48MB min, 56MB avg, 65MB max
+       Mod : 6 samples:
+    Cached: 185MB min, 192MB avg, 198MB max
+    Free: 1.4GB min, 1.5GB avg, 1.5GB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 97MB min, 98MB avg, 99MB max
+    Native: 52MB min, 62MB avg, 65MB max
+
+Per-Package Stats:
+  * com.serfcompany.ecommerce.amazingcart / u0a60 / v1:
+      * com.serfcompany.ecommerce.amazingcart / u0a60 / v1:
+               TOTAL: 92% (8.8MB-32MB-101MB/5.9MB-28MB-96MB over 533)
+                 Top: 92% (8.8MB-32MB-101MB/5.9MB-28MB-96MB over 533)
+          (Last Act): 0.09%
+            (Cached): 0.41% (3.5MB-12MB-21MB/2.2MB-9.7MB-17MB over 2)
+
+Summary:
+  * com.serfcompany.ecommerce.amazingcart / u0a60 / v1:
+           TOTAL: 92% (8.8MB-32MB-101MB/5.9MB-28MB-96MB over 533)
+             Top: 92% (8.8MB-32MB-101MB/5.9MB-28MB-96MB over 533)
+      (Last Act): 0.09%
+        (Cached): 0.41% (3.5MB-12MB-21MB/2.2MB-9.7MB-17MB over 2)
+
+Run time Stats:
+  SOn /Norm: +17h46m10s135ms
+       Mod : +5m2s936ms
+      TOTAL: +17h51m13s71ms
+
+Memory usage:
+  Kernel : 100MB (273 samples)
+  Native : 56MB (273 samples)
+  Persist: 106MB (375 samples)
+  Top    : 31MB (1198 samples)
+  ImpFg  : 14MB (1196 samples)
+  ImpBg  : 10MB (231 samples)
+  Service: 2.5MB (1561 samples)
+  Receivr: 201KB (2090 samples)
+  Home   : 15MB (266 samples)
+  LastAct: 29KB (543 samples)
+  CchAct : 0.90KB (535 samples)
+  CchEmty: 51MB (1325 samples)
+  Cached : 181MB (273 samples)
+  Free   : 1.5GB (273 samples)
+  TOTAL  : 2.0GB
+
+          Start time: 2016-02-11 09:31:36
+  Total elapsed time: +17h52m0s483ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOn /Norm: 8 samples:
+    Cached: 188MB min, 194MB avg, 199MB max
+    Free: 1.4GB min, 1.4GB avg, 1.4GB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 99MB min, 100MB avg, 101MB max
+    Native: 55MB min, 60MB avg, 65MB max
+       Mod : 2 samples:
+    Cached: 197MB min, 197MB avg, 198MB max
+    Free: 1.4GB min, 1.4GB avg, 1.4GB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 98MB min, 98MB avg, 98MB max
+    Native: 65MB min, 65MB avg, 65MB max
+
+Per-Package Stats:
+  * com.serfcompany.ecommerce.amazingcart / u0a60 / v1:
+      * com.serfcompany.ecommerce.amazingcart / u0a60 / v1:
+               TOTAL: 99% (20MB-26MB-58MB/16MB-22MB-54MB over 88)
+                 Top: 99% (20MB-26MB-58MB/16MB-22MB-54MB over 88)
+          (Last Act): 0.12%
+            (Cached): 0.29% (3.5MB-3.5MB-3.5MB/2.2MB-2.2MB-2.2MB over 1)
+
+Summary:
+  * com.serfcompany.ecommerce.amazingcart / u0a60 / v1:
+           TOTAL: 99% (20MB-26MB-58MB/16MB-22MB-54MB over 88)
+             Top: 99% (20MB-26MB-58MB/16MB-22MB-54MB over 88)
+      (Last Act): 0.12%
+        (Cached): 0.29% (3.5MB-3.5MB-3.5MB/2.2MB-2.2MB-2.2MB over 1)
+
+Run time Stats:
+  SOn /Norm: +2h45m13s920ms
+       Mod : +1m16s394ms
+      TOTAL: +2h46m30s314ms
+
+Memory usage:
+  Kernel : 100MB (78 samples)
+  Native : 60MB (78 samples)
+  Persist: 109MB (81 samples)
+  Top    : 26MB (186 samples)
+  ImpFg  : 12MB (69 samples)
+  ImpBg  : 16MB (22 samples)
+  Service: 2.0KB (87 samples)
+  Receivr: 1.3KB (192 samples)
+  Home   : 17MB (38 samples)
+  LastAct: 32KB (89 samples)
+  CchEmty: 44MB (223 samples)
+  Cached : 194MB (78 samples)
+  Free   : 1.4GB (78 samples)
+  TOTAL  : 2.0GB
+
+          Start time: 2016-03-02 06:45:00
+  Total elapsed time: +2h46m30s314ms (partial) libart.so

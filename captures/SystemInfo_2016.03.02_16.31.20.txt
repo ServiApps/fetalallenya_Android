@@ -1,0 +1,40 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        23a19cb0 com.serfcompany.ecommerce.amazingcart/com.serfcompany.ecommerce.acart.view.MainActivity
+
+Key Set Manager:
+  [com.serfcompany.ecommerce.amazingcart]
+      Signing KeySets: 39
+
+Packages:
+  Package [com.serfcompany.ecommerce.amazingcart] (40f2cd3):
+    userId=10060 gids=[3003, 1028, 1015]
+    pkg=Package{9ad8729 com.serfcompany.ecommerce.amazingcart}
+    codePath=/data/app/com.serfcompany.ecommerce.amazingcart-2
+    resourcePath=/data/app/com.serfcompany.ecommerce.amazingcart-2
+    legacyNativeLibraryDir=/data/app/com.serfcompany.ecommerce.amazingcart-2/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 targetSdk=23
+    versionName=1.0
+    splits=[base]
+    applicationInfo=ApplicationInfo{30c73aae com.serfcompany.ecommerce.amazingcart}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.serfcompany.ecommerce.amazingcart
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2016-03-02 09:27:07
+    firstInstallTime=2016-02-02 10:43:17
+    lastUpdateTime=2016-03-02 09:27:08
+    signatures=PackageSignatures{db0cd0e [949304f]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.CHANGE_NETWORK_STATE
+      android.permission.INTERNET
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.ACCESS_WIFI_STATE

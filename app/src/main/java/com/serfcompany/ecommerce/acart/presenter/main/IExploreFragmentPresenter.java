@@ -1,0 +1,17 @@
+package com.serfcompany.ecommerce.acart.presenter.main;
+
+import com.serfcompany.ecommerce.acart.model.product.Product;
+
+import java.util.List;
+
+/**
+ * Created by serfcompany on 29.02.16.
+ */
+public interface IExploreFragmentPresenter {
+    void loadDatas();
+    public void loadMoreDatas(int page);
+    List<Product> getData();
+    void loadSearchData(String keyword);
+    void clearDatas();
+    public void returnSavedDatas();
+}
