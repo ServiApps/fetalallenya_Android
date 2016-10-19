@@ -31,7 +31,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_gravity="center"
-            android:id="@+id/progressBarFrameCat"
+            android:id="@+id/progressBarFrame"
             android:visibility="visible">
 
             <ProgressBar
@@ -223,7 +223,7 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
-                    android:visibility="visible"
+                    android:visibility="gone"
                     android:orientation="vertical"
                     android:id="@+id/toCommentsActivity"
                     android:background="@android:drawable/editbox_background_normal">

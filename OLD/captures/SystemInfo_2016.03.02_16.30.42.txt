@@ -1,0 +1,34 @@
+Applications Memory Usage (kB):
+Uptime: 20807053 Realtime: 20807053
+
+** MEMINFO in pid 27569 [com.serfcompany.ecommerce.amazingcart] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    19280    19188        0        0    40960    34434     6525
+  Dalvik Heap    28098    28020        0        0    27916    27149      767
+ Dalvik Other      932      932        0        0                           
+        Stack      292      292        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1433      144      160        0                           
+    .apk mmap      219        0       24        0                           
+    .ttf mmap      117        0       48        0                           
+    .dex mmap     4512        0     4508        0                           
+    .oat mmap     3027        0      804        0                           
+    .art mmap     1419      888        4        0                           
+   Other mmap       72        4       40        0                           
+      Unknown       93       92        0        0                           
+        TOTAL    59499    49560     5592        0    68876    61583     7292
+ 
+ Objects
+               Views:     2517         ViewRootImpl:        6
+         AppContexts:        8           Activities:        6
+              Assets:        2        AssetManagers:        2
+       Local Binders:       70        Proxy Binders:       22
+       Parcel memory:        7         Parcel count:       30
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

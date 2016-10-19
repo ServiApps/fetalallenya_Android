@@ -26,8 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="center"
-        android:visibility="visible"
-        android:id="@+id/progressBarFrameCat">
+        android:id="@+id/progressBarFrame">
 
         <ProgressBar
             android:layout_width="wrap_content"
@@ -36,7 +35,17 @@
             android:visibility="visible"
             android:layout_gravity="center"/>
     </FrameLayout>
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimary"
+        android:id="@+id/goBackDivider"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:text="@string/go_back_click"
+        android:textSize="16sp"
+        android:visibility="gone" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -45,19 +54,14 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="@color/colorPrimary"
                 android:id="@+id/categoryDivider"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:layout_marginTop="2dp"
-                android:layout_marginBottom="2dp"
-                android:paddingLeft="12dp"
-                android:paddingTop="8dp"
-                android:paddingBottom="8dp"
-                android:background="@color/colorTextIcons"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
                 android:text="@string/subcategories_click"
                 android:textSize="16sp"
-                android:visibility="visible" />
+                android:visibility="gone" />
             <FrameLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -72,18 +76,13 @@
                 android:layout_width="match_parent"
                 android:id="@+id/productDivider"
                 android:layout_height="wrap_content"
-                android:textColor="@color/colorPrimaryDark"
-                android:background="@color/colorTextIcons"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:layout_marginTop="2dp"
-                android:layout_marginBottom="2dp"
-                android:paddingLeft="12dp"
-                android:paddingTop="8dp"
-                android:paddingBottom="8dp"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
                 android:text="@string/product_click"
                 android:textSize="16sp"
-                android:visibility="visible" />
+                android:visibility="gone" />
             <FrameLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

@@ -42,7 +42,7 @@ public class CategoryFragment extends AbstractTabFragment implements IFragmentVi
     private ProductsListAdapter prodAdapter;
     ExploreFragmentPresenterImpl iFragmentPresenter;
     FrameLayout loadingFrame;
-    TextView divider1, divider2;
+    TextView divider1, divider2,goBackDivider;
 
     public static CategoryFragment getInstance(Context context){
         Bundle args = new Bundle();
@@ -62,25 +62,30 @@ public class CategoryFragment extends AbstractTabFragment implements IFragmentVi
         loadingFrame = (FrameLayout) view.findViewById(R.id.progressBarFrame);
         divider1 = (TextView) view.findViewById(R.id.productDivider);
         divider2 = (TextView) view.findViewById(R.id.categoryDivider);
+        goBackDivider= (TextView) view.findViewById(R.id.goBackDivider);
 
         final FrameLayout categoriesFrame = (FrameLayout) view.findViewById(R.id.categoriesRecyclerViewFrame);
         final FrameLayout productsFrame = (FrameLayout) view.findViewById(R.id.productsRecyclerViewFrame);
 
+        goBackDivider.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                    categoriesFrame.setVisibility(View.VISIBLE);
+                    CategoryFragmentPresenter presenter = new CategoryFragmentPresenter(context);
+                    presenter.loadDatas();
+            }
+        });
+
         divider2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (divider2.getText().equals("Click here to go back")) {
-                    CategoryFragmentPresenter presenter = new CategoryFragmentPresenter(context);
-                    presenter.loadDatas();
-                } else {
-
                     if (categoriesFrame.getVisibility() == View.VISIBLE) {
                         categoriesFrame.setVisibility(View.GONE);
                         divider2.setText("Subcategories (click here to show)");
                     } else {
                         categoriesFrame.setVisibility(View.VISIBLE);
                         divider2.setText("Subcategories (click here to hide)");
-                    }
+
                 }
             }
         });
@@ -126,6 +131,7 @@ public class CategoryFragment extends AbstractTabFragment implements IFragmentVi
                 rView.setVisibility(View.VISIBLE);
                 divider1.setVisibility(View.GONE);
                 divider2.setVisibility(View.GONE);
+                goBackDivider.setVisibility(View.GONE);
                 prodRecView.setVisibility(View.GONE);
                 mAdapter.setDatas(getDataEvent.getDatas());
                 mAdapter.notifyDataSetChanged();
@@ -144,14 +150,17 @@ public class CategoryFragment extends AbstractTabFragment implements IFragmentVi
         if (event != null && event.getCategories()!=null && event.getCategoriesProducts()!=null){
             loadingFrame.setVisibility(View.GONE);
             divider1.setVisibility(View.VISIBLE);
-            divider2.setVisibility(View.VISIBLE);
+          //  divider2.setVisibility(View.VISIBLE);
+            goBackDivider.setVisibility(View.VISIBLE);
 
             if (event.getCategories().size() > 0) {
+                divider2.setVisibility(View.VISIBLE);
                 divider2.setText("Subcategories (click here to show)");
                 mAdapter.setDatas(event.getCategories());
                 mAdapter.notifyDataSetChanged();
             } else {
-                divider2.setText("Click here to go back");
+              //  divider2.setText("Click here to go back");
+                divider2.setVisibility(View.GONE);
                 rView.setVisibility(View.GONE);
             }
             prodRecView.setVisibility(View.VISIBLE);

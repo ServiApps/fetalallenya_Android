@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.github.afollestad\sectioned-recyclerview\0.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3af5d845f447c312a7d7f3672aaa1a0bff2568ef">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad-sectioned-recyclerview-0.1.0_d3f547357ee3cf182ae4c2d28db4e35c531c76a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_a2165473c0311dca7392bfd0ff399f80a78a66b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_90f58fd0fa0a89d35bcdb3483b6d0aaba30124bf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_2fc2b2bb2013a8e1c3b5509d7d97c6b8f08c1865\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_edf4bb427475d33915fb1f034226b6d1cd55d4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_2fc2b2bb2013a8e1c3b5509d7d97c6b8f08c1865.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_a2165473c0311dca7392bfd0ff399f80a78a66b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.github.afollestad\sectioned-recyclerview\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3af5d845f447c312a7d7f3672aaa1a0bff2568ef">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\com.github.afollestad-sectioned-recyclerview-0.1.0_d3f547357ee3cf182ae4c2d28db4e35c531c76a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_870ae3e50c7e7e45bfaf54e5c4ce3ae4ef87f629.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-2.4.0_870ae3e50c7e7e45bfaf54e5c4ce3ae4ef87f629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_a5a737c0ffa77efa6e1a707b29785bb9cc8e9eb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_2b7c64521991401973946be4e4bbe39968e7df04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_2b7c64521991401973946be4e4bbe39968e7df04\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_a5a737c0ffa77efa6e1a707b29785bb9cc8e9eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b34f3cb8cf4c9f72c0165b2826c7f29928edba24.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_b34f3cb8cf4c9f72c0165b2826c7f29928edba24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.dm7.barcodescanner-zxing-1.8.4_a9b287856fb88ef5eb264bbb0527103b520c4cc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-zxing-1.8.4_a9b287856fb88ef5eb264bbb0527103b520c4cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\core-3.2.1_f863de9adce64588c48bdbcb223565a9f8bac57a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="30c7f1424655ccb50ecad2ad3a37f6f6b55bfb21">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d91fb4dc549a1c1180f7198de81240969c3dfb12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_f863de9adce64588c48bdbcb223565a9f8bac57a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.3\eecdac8c86bc84b4bdfc24371ba8c785a1fc552\commons-lang-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0eecdac8c86bc84b4bdfc24371ba8c785a1fc552">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\commons-lang-2.3_8f57e2fb02052ed5fbecc99e59e01c73f460c3fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-core-1.8.4_cf0179145b768abdb8b57479b4d969c81f7d5ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_efd358856f7349d1a9ffd2b176d6d830be5c44c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.3\eecdac8c86bc84b4bdfc24371ba8c785a1fc552\commons-lang-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0eecdac8c86bc84b4bdfc24371ba8c785a1fc552">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang-2.3_8f57e2fb02052ed5fbecc99e59e01c73f460c3fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_efd358856f7349d1a9ffd2b176d6d830be5c44c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.dm7.barcodescanner-core-1.8.4_cf0179145b768abdb8b57479b4d969c81f7d5ff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_edf4bb427475d33915fb1f034226b6d1cd55d4a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6dea6f9f99f5109b74b62b1abecb1bd8ef4c428a">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6fcb16a4f64ebab50df613f6fa70ebab2235b467\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_facab280196bf5c15158e771ff72d2fcbeff265b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_90f58fd0fa0a89d35bcdb3483b6d0aaba30124bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snada\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\SkyDrive\ServiApps\Clientes\FetalaLlenya\fetalallenya_Android\app\build\intermediates\pre-dexed\debug\gson-2.3_facab280196bf5c15158e771ff72d2fcbeff265b.jar" />
+    </item>
+
+</items>

@@ -2,26 +2,40 @@ package com.serfcompany.ecommerce.acart.view.main.adapter;
 
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.Paint;
+import android.graphics.drawable.Drawable;
+import android.net.Uri;
+import android.os.AsyncTask;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.text.Html;
+import android.text.TextUtils;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
+import com.serfcompany.ecommerce.acart.view.ProductActivity;
 import com.serfcompany.ecommerce.acart.R;
 import com.serfcompany.ecommerce.acart.model.product.Category;
 import com.serfcompany.ecommerce.acart.model.product.Product;
 import com.serfcompany.ecommerce.acart.presenter.main.IExploreFragmentPresenter;
-import com.serfcompany.ecommerce.acart.view.ProductActivity;
 import com.squareup.picasso.Picasso;
 
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.URL;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ExecutionException;
 
 public class ProductsListAdapter extends RecyclerView.Adapter<ProductsListAdapter.ProductsViewHolder>{
 
@@ -67,7 +81,10 @@ public class ProductsListAdapter extends RecyclerView.Adapter<ProductsListAdapte
         Boolean onSale = product.getGeneral().getPricing().getIsOnSale();
         String currency = product.getGeneral().getPricing().getCurrency();
         Double salePrice = 0.0;
-        Double reguralPrice = Double.valueOf(product.getGeneral().getPricing().getRegularPrice());
+        Double reguralPrice = 0.0;
+        if(!TextUtils.isEmpty(product.getGeneral().getPricing().getRegularPrice())){
+            reguralPrice = Double.valueOf(product.getGeneral().getPricing().getRegularPrice());
+        }
         if (onSale){
             salePrice = Double.valueOf(product.getGeneral().getPricing().getSalePrice());
         }

@@ -20,10 +20,5 @@
         android:title="@string/menu_item_cart"
         android:icon="@mipmap/ic_cart_white_24dp"
         />
-    <item
-        android:id="@+id/actionQRReader"
-        android:orderInCategory="23"
-        android:title="Scan QR code"
-        android:icon="@drawable/ic_qrcode_white_24dp"
-        />
+
 </menu>
